@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Nikhil
-- 👀 Data Science Enthusiast | Engineer: Machine Learning | Published Author
-- 📫 How to reach me: https://www.linkedin.com/in/nikhil-verma-b44449129/
+- Hi, I’m Nikhil
+- Data Science Enthusiast | Engineer: Machine Learning | Published Author
+- How to reach me: https://www.linkedin.com/in/nikhil-verma-b44449129/
+- Read my blogs on: https://find-nikhil.medium.com/ 
